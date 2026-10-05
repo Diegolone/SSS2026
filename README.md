@@ -3,6 +3,4 @@
 
 
 Questo è un test sul nuovo branch
-modifico il codice
-
 
